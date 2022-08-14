@@ -2,4 +2,4 @@
 
 This is a sample readme file.
 
-Adding updated on other branch.
+Introducing conflict.
