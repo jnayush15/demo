@@ -9,3 +9,5 @@ A new change.
 Changes to be staged.
 
 Chnages to be not staged.
+
+Hello world.
