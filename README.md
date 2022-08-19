@@ -11,3 +11,5 @@ Changes to be staged.
 Chnages to be not staged.
 
 Hello world.
+
+Hello world again.
