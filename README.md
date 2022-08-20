@@ -13,3 +13,5 @@ Chnages to be not staged.
 Hello world.
 
 Hello world again.
+
+Changes from example branch.
